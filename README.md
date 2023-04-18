@@ -1,0 +1,3 @@
+# rust-population
+
+cargo run

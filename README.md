@@ -1,3 +1,3 @@
-# rust-population
+# Calculate population in Rust
 
 cargo run
